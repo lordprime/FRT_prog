@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 - **Project Link** 
-  - https://wonderful-sand-052cea900.2.azurestaticapps.net/
+  - https://calm-sand-049355f00.3.azurestaticapps.net/
 - **project demo video link**
   - {ADD YT LINK}
 
