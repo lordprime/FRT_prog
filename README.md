@@ -1,5 +1,5 @@
 
-# ✨  Glory Luxe ✨
+# Glory Luxe Webpage with a HealthBot
 
 This is a web based application developed for health related based website in india
 
@@ -23,32 +23,22 @@ This is a web based application developed for health related based website in in
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Screenshots   
 
-![Screenshot 2022-11-04 182924](https://user-images.githubusercontent.com/116783215/199978305-c83e5671-1656-437e-91a8-b030278a7fe8.png)
+### Index -
 
-
-
-   
-
-### About Us -
-
-![Screenshot 2022-11-04 183004](https://user-images.githubusercontent.com/116783215/199978451-249d342c-aded-43d9-ad88-defbe17fa333.png)
+![image](https://github.com/lordprime/FRT_prog/assets/93172671/38df5a2c-2e11-4750-aa3d-4673200be5f7)
 
 ### Services -
-![Screenshot 2022-11-04 183058](https://user-images.githubusercontent.com/116783215/199978652-153b68b4-d90b-4f2b-b6bb-7edd3eb798bd.png)
+![image](https://github.com/lordprime/FRT_prog/assets/93172671/3daea5e4-27d3-4565-879f-52f4ad52ac92)
 
 
 ### Contact us -
-![Screenshot 2022-11-04 183155](https://user-images.githubusercontent.com/116783215/199978830-e41fbaa9-9c16-465f-a202-33c2ac4932d9.png)
+![image](https://github.com/lordprime/FRT_prog/assets/93172671/6b3da471-2aa7-4a55-bf28-1797c95ec007)
 
 
 ### health bot
-
-
-
-![Screenshot 2022-11-04 182119](https://user-images.githubusercontent.com/116783215/199978144-67d6cf3e-397d-477c-aa8a-dd6d26a4dddd.png)
-
+![image](https://github.com/lordprime/FRT_prog/assets/93172671/0249c757-919b-4bd2-911d-36f70ef3cbe2)
 
 
 ## Tech Stack 💻
