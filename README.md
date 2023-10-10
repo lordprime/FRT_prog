@@ -1,5 +1,5 @@
 
-# Glory Luxe Webpage with a HealthBot
+# Lifestyle Webpage with a interactive HealthBot
 
 This is a web based application developed for health related based website in india
 
@@ -9,7 +9,7 @@ This is a web based application developed for health related based website in in
 - **Project Link** 
   - https://calm-sand-049355f00.3.azurestaticapps.net/
 - **project demo video link**
-  - {ADD YT LINK}
+  - https://www.youtube.com/watch?v=cRAcyxYPguE
 
 ## Azure technologies used for Project
 
@@ -18,12 +18,12 @@ This is a web based application developed for health related based website in in
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Interactive and adaptable user interface.
+- Has numerous creative graphic and visual effects.
+- Possess a visually appealing architectural design.
+- Has a large assortment of web sites, such as Home, About Us, Contact, Menu, and pages about health and other topics.
+- This website provides information on health to users.
+- To broaden the scope of improvement, included the feedback survey form. 
 
 ## Screenshots   
 
